@@ -1,1 +1,1 @@
-# ConversorDeMoedas
+# ConversorDeMoedas usando Kotlin e uma api, para a conversão em tempo real funcionar é necessário pegar sua apiKey no site https://free.currencyconverterapi.com
